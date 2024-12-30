@@ -1,0 +1,418 @@
+06-27-2024 00:29:10.863 | Action = 0
+06-27-2024 00:29:10.863 | ActionName = 
+06-27-2024 00:29:10.863 | Launch = 0
+06-27-2024 00:29:11.404 | CheckQADriverFight = false
+06-27-2024 00:29:11.404 | DQA Mode = false
+06-27-2024 00:29:11.405 | Local Mode = false
+06-27-2024 00:29:11.405 | Encoding Mode = true
+06-27-2024 00:29:12.612 | Miscellaneous file date : 20240515001
+06-27-2024 00:29:17.259 | ****** Module Start ******
+06-27-2024 00:29:17.269 | CheckQADriverFight = false
+06-27-2024 00:29:17.269 | DQA Mode = false, Local Mode = false, Encoding Mode = true
+06-27-2024 00:29:17.538 | Enumerate File date : 20231206001
+06-27-2024 00:29:17.545 | GEO! : RU
+06-27-2024 00:29:17.546 | adobe redeem flow : true
+06-27-2024 00:29:17.546 | GEO! : null or empty!
+06-27-2024 00:29:17.547 | dropbox redeem flow : true
+06-27-2024 00:29:17.666 | Gear Enumerate File date : 20231121001
+06-27-2024 00:29:17.740 | OS Machine Guid : 3f6e9f7d-424b-4e9f-acf1-e3de5b48333d
+06-27-2024 00:29:17.741 | OS : Windows 10 Pro (2009) 10.0.22631.2861
+06-27-2024 00:29:17.833 | OOBE Count = 0 (Time)
+06-27-2024 00:29:18.281 | BIOS Version : H.10
+06-27-2024 00:29:18.282 | Model PCB MKT : MS-7D99_3_B760M GAMING PLUS WIFI 
+06-27-2024 00:29:18.282 | System Product : MS-7D99
+06-27-2024 00:29:18.283 | MB Manufacturer : Micro-Star International Co., Ltd.
+06-27-2024 00:29:21.375 | Wait member center API!
+06-27-2024 00:29:21.489 | Wait member center API!
+06-27-2024 00:29:21.600 | Wait member center API!
+06-27-2024 00:29:21.707 | Wait member center API!
+06-27-2024 00:29:21.818 | Wait member center API!
+06-27-2024 00:29:21.925 | Wait member center API!
+06-27-2024 00:29:22.038 | Wait member center API!
+06-27-2024 00:29:22.143 | Wait member center API!
+06-27-2024 00:29:22.251 | Wait member center API!
+06-27-2024 00:29:22.361 | Wait member center API!
+06-27-2024 00:29:22.474 | Wait member center API!
+06-27-2024 00:29:22.586 | Wait member center API!
+06-27-2024 00:29:22.693 | Wait member center API!
+06-27-2024 00:29:22.803 | Wait member center API!
+06-27-2024 00:29:22.916 | Wait member center API!
+06-27-2024 00:29:23.036 | Wait member center API!
+06-27-2024 00:29:23.146 | Wait member center API!
+06-27-2024 00:29:23.253 | Wait member center API!
+06-27-2024 00:29:23.364 | Wait member center API!
+06-27-2024 00:29:23.471 | Wait member center API!
+06-27-2024 00:29:23.579 | Wait member center API!
+06-27-2024 00:29:23.689 | Wait member center API!
+06-27-2024 00:29:23.798 | Wait member center API!
+06-27-2024 00:29:23.910 | Wait member center API!
+06-27-2024 00:29:24.019 | Wait member center API!
+06-27-2024 00:29:24.128 | Wait member center API!
+06-27-2024 00:29:24.238 | Wait member center API!
+06-27-2024 00:29:24.347 | Wait member center API!
+06-27-2024 00:29:24.457 | Wait member center API!
+06-27-2024 00:29:24.566 | Wait member center API!
+06-27-2024 00:29:26.928 | CFG File date : 20240614001 Install_MBID0002
+06-27-2024 00:29:27.756 | Check NVIDIA VGA : Driver need update or GPU not found.
+06-27-2024 00:29:27.803 | APP [1.0.0.04] No Install (D606A7F3-60CF-47A8-97D8-46849E8BFFFE) Dropbox Redeem Launcher
+06-27-2024 00:29:28.006 | [ERROR] Data set res error (MB) : Сервер нарушил протокол. Section=ResponseHeader Detail=За возвратом каретки должен следовать перевод строки
+06-27-2024 00:29:28.991 | UWP [2.0.37.0] No Install (FFBD8CA5-E9CA-4926-84BE-A07E22654E69) MSI Center
+06-27-2024 00:29:28.991 | APP [10.1.19627.8423] No Install (92C49ABF-946C-4464-ACC7-C8ED82BF54DC) Intel Chipset Drivers
+06-27-2024 00:29:28.991 | APP [10.69.1121.2023] No Install (D532F9B6-ABE9-4D4A-B223-BBAD23B2B4C4) Realtek PCIE Network Drivers
+06-27-2024 00:29:28.991 | APP [23.40.0.2] No Install (8F0A0908-3E21-402F-BA4F-0FCF0C0BEB57) Intel BlueTooth Drivers
+06-27-2024 00:29:28.991 | INF [23.40.0.4] Need Update (13CF0C95-DE10-4BF8-BEBD-6A3C856F602D) Intel WIFI Drivers
+06-27-2024 00:29:28.991 | APP [6.0.9648.1] No Install (1EB5E32C-38CC-4D0A-A908-B113C7EB6572) Realtek HD Universal Drivers
+06-27-2024 00:29:28.991 | INF [3.00.00.1457] Installed (CADD673B-DDA3-4016-93BD-3F83D6F742D8) Intel GNA Scoring Accelerator
+06-27-2024 00:29:28.991 | INF [30.100.2221.20] No Install (E4945CE4-B268-4D48-94EA-A03CE61369E6) Intel Serial IO Drivers
+06-27-2024 00:29:28.991 | APP [2230.3.19.0] No Install (5EBC6765-D66A-4FFF-B69A-AA24D8CEA969) Intel ME Drivers
+06-27-2024 00:29:28.991 | APP [2.08] No Install (41896E3D-DAF2-487B-82EB-DDC9E4645A94) CPU-Z MSI GAMING
+06-27-2024 00:29:28.991 | APP [7.00] No Install (9207279F-ABBF-4F41-A2C3-ADE48990F44B) AIDA64 Extreme - MSI Edition
+06-27-2024 00:29:28.991 | APP [2.0.0.2] No Install (721D843D-8889-4A45-8EFB-55A6491D4416) MSI Wallpaper
+06-27-2024 00:30:18.391 | 
+06-27-2024 00:30:18.391 | ===== Start process : Dropbox Redeem Launcher =====
+06-27-2024 00:30:18.391 | *** Download function start ***
+06-27-2024 00:30:18.391 | Name : Dropbox Redeem Launcher
+06-27-2024 00:30:18.391 | Version : 1.0.0.04
+06-27-2024 00:30:18.391 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/Utility/DropboxRedeemLauncher_1.0.0.04.zip
+06-27-2024 00:30:18.391 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\DropboxRedeemLauncher_1.0.0.04.zip
+06-27-2024 00:30:18.391 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\DropboxRedeemLauncher_1.0.0.04\Dropbox Redeem Launcher\DropboxRedeemLauncher.exe
+06-27-2024 00:30:18.391 | Parm : /verysilent /norestart
+06-27-2024 00:30:20.440 | File download finished! (DropboxRedeemLauncher_1.0.0.04.zip)
+06-27-2024 00:30:20.440 | Download status : SUCCESSFUL
+06-27-2024 00:30:20.440 | *** Download function Stop ***
+06-27-2024 00:30:20.440 | *** Uncompress function start ***
+06-27-2024 00:30:20.440 | Name : Dropbox Redeem Launcher
+06-27-2024 00:30:20.440 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/Utility/DropboxRedeemLauncher_1.0.0.04.zip
+06-27-2024 00:30:20.440 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\DropboxRedeemLauncher_1.0.0.04.zip
+06-27-2024 00:30:20.456 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\DropboxRedeemLauncher_1.0.0.04\Dropbox Redeem Launcher\DropboxRedeemLauncher.exe
+06-27-2024 00:30:20.456 | Decompression source C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\DropboxRedeemLauncher_1.0.0.04.zip.
+06-27-2024 00:30:20.456 | Decompression destination C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\DropboxRedeemLauncher_1.0.0.04\Dropbox Redeem Launcher\DropboxRedeemLauncher.exe.
+06-27-2024 00:30:22.959 | Uncompress status : SUCCESSFUL
+06-27-2024 00:30:22.959 | *** Uncompress function Stop ***
+06-27-2024 00:30:22.959 | *** Install function start ***
+06-27-2024 00:30:22.959 | Name : Dropbox Redeem Launcher
+06-27-2024 00:30:22.959 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/Utility/DropboxRedeemLauncher_1.0.0.04.zip
+06-27-2024 00:30:22.959 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\DropboxRedeemLauncher_1.0.0.04.zip
+06-27-2024 00:30:22.959 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\DropboxRedeemLauncher_1.0.0.04\Dropbox Redeem Launcher\DropboxRedeemLauncher.exe
+06-27-2024 00:30:22.959 | Execute C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\DropboxRedeemLauncher_1.0.0.04\Dropbox Redeem Launcher\DropboxRedeemLauncher.exe param /verysilent /norestart.
+06-27-2024 00:30:26.978 | Install status : SUCCESSFUL
+06-27-2024 00:30:26.978 | *** Install function Stop ***
+06-27-2024 00:30:26.994 | Finish item Dropbox Redeem Launcher.
+06-27-2024 00:30:26.994 | ===== Stop process : Dropbox Redeem Launcher =====
+06-27-2024 00:30:26.994 | 
+06-27-2024 00:30:26.994 | ===== Start process : MSI Center =====
+06-27-2024 00:30:26.994 | *** Download function start ***
+06-27-2024 00:30:26.994 | Name : MSI Center
+06-27-2024 00:30:27.009 | Version : 2.0.37.0
+06-27-2024 00:30:27.009 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/Utility/MSI_Center_2.0.37.0.zip
+06-27-2024 00:30:27.009 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\MSI_Center_2.0.37.0.zip
+06-27-2024 00:30:27.009 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\MSI_Center_2.0.37.0\MSI Center\MSI Center_2.0.37.0.exe
+06-27-2024 00:30:27.009 | Parm : /verysilent /norestart
+06-27-2024 00:35:05.043 | File download finished! (MSI_Center_2.0.37.0.zip)
+06-27-2024 00:35:05.043 | Download status : SUCCESSFUL
+06-27-2024 00:35:05.043 | *** Download function Stop ***
+06-27-2024 00:35:05.043 | *** Uncompress function start ***
+06-27-2024 00:35:05.043 | Name : MSI Center
+06-27-2024 00:35:05.043 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/Utility/MSI_Center_2.0.37.0.zip
+06-27-2024 00:35:05.043 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\MSI_Center_2.0.37.0.zip
+06-27-2024 00:35:05.043 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\MSI_Center_2.0.37.0\MSI Center\MSI Center_2.0.37.0.exe
+06-27-2024 00:35:05.043 | Decompression source C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\MSI_Center_2.0.37.0.zip.
+06-27-2024 00:35:05.043 | Decompression destination C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\MSI_Center_2.0.37.0\MSI Center\MSI Center_2.0.37.0.exe.
+06-27-2024 00:35:07.643 | Uncompress status : SUCCESSFUL
+06-27-2024 00:35:07.643 | *** Uncompress function Stop ***
+06-27-2024 00:35:07.643 | *** Install function start ***
+06-27-2024 00:35:07.643 | Name : MSI Center
+06-27-2024 00:35:07.643 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/Utility/MSI_Center_2.0.37.0.zip
+06-27-2024 00:35:07.643 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\MSI_Center_2.0.37.0.zip
+06-27-2024 00:35:07.643 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\MSI_Center_2.0.37.0\MSI Center\MSI Center_2.0.37.0.exe
+06-27-2024 00:35:07.643 | Execute C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\MSI_Center_2.0.37.0\MSI Center\MSI Center_2.0.37.0.exe param /verysilent /norestart.
+06-27-2024 00:35:53.822 | Install status : SUCCESSFUL
+06-27-2024 00:35:53.822 | *** Install function Stop ***
+06-27-2024 00:35:53.822 | Finish item MSI Center.
+06-27-2024 00:35:54.650 | ===== Stop process : MSI Center =====
+06-27-2024 00:35:54.650 | 
+06-27-2024 00:35:54.650 | ===== Start process : Intel Chipset Drivers =====
+06-27-2024 00:35:54.650 | *** Download function start ***
+06-27-2024 00:35:54.650 | Name : Intel Chipset Drivers
+06-27-2024 00:35:54.650 | Version : 10.1.19627.8423
+06-27-2024 00:35:54.650 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/MBID0002/Intel_Chipset_Drivers_10.1.19627.8423.zip
+06-27-2024 00:35:54.650 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_Chipset_Drivers_10.1.19627.8423.zip
+06-27-2024 00:35:54.650 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_Chipset_Drivers_10.1.19627.8423\Intel Chipset Drivers\SetupChipset.exe
+06-27-2024 00:35:54.650 | Parm :  -s -norestart
+06-27-2024 00:35:56.729 | File download finished! (Intel_Chipset_Drivers_10.1.19627.8423.zip)
+06-27-2024 00:35:56.729 | Download status : SUCCESSFUL
+06-27-2024 00:35:56.729 | *** Download function Stop ***
+06-27-2024 00:35:56.729 | *** Uncompress function start ***
+06-27-2024 00:35:56.729 | Name : Intel Chipset Drivers
+06-27-2024 00:35:56.729 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/MBID0002/Intel_Chipset_Drivers_10.1.19627.8423.zip
+06-27-2024 00:35:56.729 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_Chipset_Drivers_10.1.19627.8423.zip
+06-27-2024 00:35:56.729 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_Chipset_Drivers_10.1.19627.8423\Intel Chipset Drivers\SetupChipset.exe
+06-27-2024 00:35:56.729 | Decompression source C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_Chipset_Drivers_10.1.19627.8423.zip.
+06-27-2024 00:35:56.729 | Decompression destination C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_Chipset_Drivers_10.1.19627.8423\Intel Chipset Drivers\SetupChipset.exe.
+06-27-2024 00:35:57.933 | Uncompress status : SUCCESSFUL
+06-27-2024 00:35:57.933 | *** Uncompress function Stop ***
+06-27-2024 00:35:57.933 | *** Install function start ***
+06-27-2024 00:35:57.933 | Name : Intel Chipset Drivers
+06-27-2024 00:35:57.933 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/MBID0002/Intel_Chipset_Drivers_10.1.19627.8423.zip
+06-27-2024 00:35:57.933 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_Chipset_Drivers_10.1.19627.8423.zip
+06-27-2024 00:35:57.933 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_Chipset_Drivers_10.1.19627.8423\Intel Chipset Drivers\SetupChipset.exe
+06-27-2024 00:35:57.949 | Execute C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_Chipset_Drivers_10.1.19627.8423\Intel Chipset Drivers\SetupChipset.exe param  -s -norestart.
+06-27-2024 00:36:08.030 | Install status : SUCCESSFUL
+06-27-2024 00:36:08.030 | *** Install function Stop ***
+06-27-2024 00:36:08.030 | Finish item Intel Chipset Drivers.
+06-27-2024 00:36:08.030 | ===== Stop process : Intel Chipset Drivers =====
+06-27-2024 00:36:08.030 | 
+06-27-2024 00:36:08.030 | ===== Start process : Realtek PCIE Network Drivers =====
+06-27-2024 00:36:08.030 | *** Download function start ***
+06-27-2024 00:36:08.030 | Name : Realtek PCIE Network Drivers
+06-27-2024 00:36:08.030 | Version : 10.69.1121.2023
+06-27-2024 00:36:08.030 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/Driver/Realtek_PCIE_Network_Drivers_10.69.1121.2023.zip
+06-27-2024 00:36:08.030 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Realtek_PCIE_Network_Drivers_10.69.1121.2023.zip
+06-27-2024 00:36:08.030 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Realtek_PCIE_Network_Drivers_10.69.1121.2023\Realtek PCIE Network Drivers\Install_Win10_10069_01232024.exe
+06-27-2024 00:36:08.030 | Parm :  /s /f2c:\mylog.log /z[-rpC:\RHDSetup.log]
+06-27-2024 00:36:08.041 | [ERROR] Download error. NameResolutionFailure
+06-27-2024 00:36:08.041 | Track Event (Невозможно разрешить удаленное имя: 'www.google-analytics.com')
+06-27-2024 00:36:08.041 | Track Event (Невозможно соединиться с удаленным сервером)
+06-27-2024 00:36:38.384 | [ERROR] Download error. DownloadTimeout
+06-27-2024 00:36:41.416 | [ERROR] File download failed! (Realtek_PCIE_Network_Drivers_10.69.1121.2023.zip)
+06-27-2024 00:36:43.510 | File download finished! (Realtek_PCIE_Network_Drivers_10.69.1121.2023.zip)
+06-27-2024 00:36:43.510 | Download status : SUCCESSFUL
+06-27-2024 00:36:43.510 | *** Download function Stop ***
+06-27-2024 00:36:43.510 | *** Uncompress function start ***
+06-27-2024 00:36:43.510 | Name : Realtek PCIE Network Drivers
+06-27-2024 00:36:43.510 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/Driver/Realtek_PCIE_Network_Drivers_10.69.1121.2023.zip
+06-27-2024 00:36:43.510 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Realtek_PCIE_Network_Drivers_10.69.1121.2023.zip
+06-27-2024 00:36:43.510 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Realtek_PCIE_Network_Drivers_10.69.1121.2023\Realtek PCIE Network Drivers\Install_Win10_10069_01232024.exe
+06-27-2024 00:36:43.510 | Decompression source C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Realtek_PCIE_Network_Drivers_10.69.1121.2023.zip.
+06-27-2024 00:36:43.510 | Decompression destination C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Realtek_PCIE_Network_Drivers_10.69.1121.2023\Realtek PCIE Network Drivers\Install_Win10_10069_01232024.exe.
+06-27-2024 00:36:45.416 | Uncompress status : SUCCESSFUL
+06-27-2024 00:36:45.416 | *** Uncompress function Stop ***
+06-27-2024 00:36:45.416 | *** Install function start ***
+06-27-2024 00:36:45.416 | Name : Realtek PCIE Network Drivers
+06-27-2024 00:36:45.416 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/Driver/Realtek_PCIE_Network_Drivers_10.69.1121.2023.zip
+06-27-2024 00:36:45.416 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Realtek_PCIE_Network_Drivers_10.69.1121.2023.zip
+06-27-2024 00:36:45.416 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Realtek_PCIE_Network_Drivers_10.69.1121.2023\Realtek PCIE Network Drivers\Install_Win10_10069_01232024.exe
+06-27-2024 00:36:45.416 | Execute C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Realtek_PCIE_Network_Drivers_10.69.1121.2023\Realtek PCIE Network Drivers\Install_Win10_10069_01232024.exe param  /s /f2c:\mylog.log /z[-rpC:\RHDSetup.log].
+06-27-2024 00:38:34.738 | Install status : SUCCESSFUL
+06-27-2024 00:38:34.738 | *** Install function Stop ***
+06-27-2024 00:38:34.738 | Finish item Realtek PCIE Network Drivers.
+06-27-2024 00:38:34.738 | ===== Stop process : Realtek PCIE Network Drivers =====
+06-27-2024 00:38:34.738 | 
+06-27-2024 00:38:34.738 | ===== Start process : Intel BlueTooth Drivers =====
+06-27-2024 00:38:34.738 | *** Download function start ***
+06-27-2024 00:38:34.738 | Name : Intel BlueTooth Drivers
+06-27-2024 00:38:34.738 | Version : 23.40.0.2
+06-27-2024 00:38:34.738 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/MBID0002/Intel_BlueTooth_Drivers_23.40.0.2.zip
+06-27-2024 00:38:34.738 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_BlueTooth_Drivers_23.40.0.2.zip
+06-27-2024 00:38:34.738 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_BlueTooth_Drivers_23.40.0.2\Intel BlueTooth Drivers\Intel Bluetooth.msi
+06-27-2024 00:38:34.738 | Parm :  /quiet /norestart
+06-27-2024 00:38:44.965 | File download finished! (Intel_BlueTooth_Drivers_23.40.0.2.zip)
+06-27-2024 00:38:44.965 | Download status : SUCCESSFUL
+06-27-2024 00:38:44.965 | *** Download function Stop ***
+06-27-2024 00:38:44.965 | *** Uncompress function start ***
+06-27-2024 00:38:44.965 | Name : Intel BlueTooth Drivers
+06-27-2024 00:38:44.965 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/MBID0002/Intel_BlueTooth_Drivers_23.40.0.2.zip
+06-27-2024 00:38:44.965 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_BlueTooth_Drivers_23.40.0.2.zip
+06-27-2024 00:38:44.965 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_BlueTooth_Drivers_23.40.0.2\Intel BlueTooth Drivers\Intel Bluetooth.msi
+06-27-2024 00:38:44.965 | Decompression source C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_BlueTooth_Drivers_23.40.0.2.zip.
+06-27-2024 00:38:44.965 | Decompression destination C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_BlueTooth_Drivers_23.40.0.2\Intel BlueTooth Drivers\Intel Bluetooth.msi.
+06-27-2024 00:38:46.075 | Uncompress status : SUCCESSFUL
+06-27-2024 00:38:46.075 | *** Uncompress function Stop ***
+06-27-2024 00:38:46.075 | *** Install function start ***
+06-27-2024 00:38:46.075 | Name : Intel BlueTooth Drivers
+06-27-2024 00:38:46.075 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/MBID0002/Intel_BlueTooth_Drivers_23.40.0.2.zip
+06-27-2024 00:38:46.075 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_BlueTooth_Drivers_23.40.0.2.zip
+06-27-2024 00:38:46.075 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_BlueTooth_Drivers_23.40.0.2\Intel BlueTooth Drivers\Intel Bluetooth.msi
+06-27-2024 00:38:46.075 | Execute C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_BlueTooth_Drivers_23.40.0.2\Intel BlueTooth Drivers\Intel Bluetooth.msi param  /quiet /norestart.
+06-27-2024 00:38:56.135 | Install status : SUCCESSFUL
+06-27-2024 00:38:56.135 | *** Install function Stop ***
+06-27-2024 00:38:56.135 | Finish item Intel BlueTooth Drivers.
+06-27-2024 00:38:56.135 | ===== Stop process : Intel BlueTooth Drivers =====
+06-27-2024 00:38:56.135 | 
+06-27-2024 00:38:56.135 | ===== Start process : Intel WIFI Drivers =====
+06-27-2024 00:38:56.135 | *** Download function start ***
+06-27-2024 00:38:56.135 | Name : Intel WIFI Drivers
+06-27-2024 00:38:56.135 | Version : 23.40.0.4
+06-27-2024 00:38:56.135 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/MBID0002/Intel_WIFI_Drivers_23.40.0.4.zip
+06-27-2024 00:38:56.135 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_WIFI_Drivers_23.40.0.4.zip
+06-27-2024 00:38:56.135 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_WIFI_Drivers_23.40.0.4\Intel WIFI Drivers\UWD\Win64\Installer\WirelessSetup.exe
+06-27-2024 00:38:56.135 | Parm :  /quiet /norestart
+06-27-2024 00:39:42.378 | File download finished! (Intel_WIFI_Drivers_23.40.0.4.zip)
+06-27-2024 00:39:42.394 | Download status : SUCCESSFUL
+06-27-2024 00:39:42.394 | *** Download function Stop ***
+06-27-2024 00:39:42.394 | *** Uncompress function start ***
+06-27-2024 00:39:42.394 | Name : Intel WIFI Drivers
+06-27-2024 00:39:42.394 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/MBID0002/Intel_WIFI_Drivers_23.40.0.4.zip
+06-27-2024 00:39:42.394 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_WIFI_Drivers_23.40.0.4.zip
+06-27-2024 00:39:42.394 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_WIFI_Drivers_23.40.0.4\Intel WIFI Drivers\UWD\Win64\Installer\WirelessSetup.exe
+06-27-2024 00:39:42.394 | Decompression source C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_WIFI_Drivers_23.40.0.4.zip.
+06-27-2024 00:39:42.394 | Decompression destination C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_WIFI_Drivers_23.40.0.4\Intel WIFI Drivers\UWD\Win64\Installer\WirelessSetup.exe.
+06-27-2024 00:39:52.044 | Uncompress status : SUCCESSFUL
+06-27-2024 00:39:52.059 | *** Uncompress function Stop ***
+06-27-2024 00:39:52.059 | *** Install function start ***
+06-27-2024 00:39:52.059 | Name : Intel WIFI Drivers
+06-27-2024 00:39:52.059 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/MBID0002/Intel_WIFI_Drivers_23.40.0.4.zip
+06-27-2024 00:39:52.059 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_WIFI_Drivers_23.40.0.4.zip
+06-27-2024 00:39:52.059 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_WIFI_Drivers_23.40.0.4\Intel WIFI Drivers\UWD\Win64\Installer\WirelessSetup.exe
+06-27-2024 00:39:52.059 | Execute C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_WIFI_Drivers_23.40.0.4\Intel WIFI Drivers\UWD\Win64\Installer\WirelessSetup.exe param  /quiet /norestart.
+06-27-2024 00:40:08.159 | Install status : SUCCESSFUL
+06-27-2024 00:40:08.175 | *** Install function Stop ***
+06-27-2024 00:40:08.175 | Finish item Intel WIFI Drivers.
+06-27-2024 00:40:08.175 | ===== Stop process : Intel WIFI Drivers =====
+06-27-2024 00:40:08.175 | 
+06-27-2024 00:40:08.175 | ===== Start process : Realtek HD Universal Drivers =====
+06-27-2024 00:40:08.175 | *** Download function start ***
+06-27-2024 00:40:08.175 | Name : Realtek HD Universal Drivers
+06-27-2024 00:40:08.175 | Version : 6.0.9648.1
+06-27-2024 00:40:08.175 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/Driver/Realtek_Audio_Driver_6.0.9648.1.zip
+06-27-2024 00:40:08.175 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Realtek_Audio_Driver_6.0.9648.1.zip
+06-27-2024 00:40:08.175 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Realtek_Audio_Driver_6.0.9648.1\Realtek HD Universal Drivers\Setup.exe
+06-27-2024 00:40:08.175 | Parm :  /s /f2c:\RHDSetup.log /z[-rpC:\RHDSetup.log] /runfromtemp
+06-27-2024 00:40:59.820 | File download finished! (Realtek_Audio_Driver_6.0.9648.1.zip)
+06-27-2024 00:40:59.820 | Download status : SUCCESSFUL
+06-27-2024 00:40:59.820 | *** Download function Stop ***
+06-27-2024 00:40:59.820 | *** Uncompress function start ***
+06-27-2024 00:40:59.820 | Name : Realtek HD Universal Drivers
+06-27-2024 00:40:59.820 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/Driver/Realtek_Audio_Driver_6.0.9648.1.zip
+06-27-2024 00:40:59.820 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Realtek_Audio_Driver_6.0.9648.1.zip
+06-27-2024 00:40:59.820 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Realtek_Audio_Driver_6.0.9648.1\Realtek HD Universal Drivers\Setup.exe
+06-27-2024 00:40:59.820 | Decompression source C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Realtek_Audio_Driver_6.0.9648.1.zip.
+06-27-2024 00:40:59.820 | Decompression destination C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Realtek_Audio_Driver_6.0.9648.1\Realtek HD Universal Drivers\Setup.exe.
+06-27-2024 00:41:12.328 | Uncompress status : SUCCESSFUL
+06-27-2024 00:41:12.328 | *** Uncompress function Stop ***
+06-27-2024 00:41:12.328 | *** Install function start ***
+06-27-2024 00:41:12.328 | Name : Realtek HD Universal Drivers
+06-27-2024 00:41:12.328 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/Driver/Realtek_Audio_Driver_6.0.9648.1.zip
+06-27-2024 00:41:12.328 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Realtek_Audio_Driver_6.0.9648.1.zip
+06-27-2024 00:41:12.328 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Realtek_Audio_Driver_6.0.9648.1\Realtek HD Universal Drivers\Setup.exe
+06-27-2024 00:41:12.328 | Execute C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Realtek_Audio_Driver_6.0.9648.1\Realtek HD Universal Drivers\Setup.exe param  /s /f2c:\RHDSetup.log /z[-rpC:\RHDSetup.log] /runfromtemp.
+06-27-2024 00:41:48.610 | Install status : SUCCESSFUL
+06-27-2024 00:41:48.610 | *** Install function Stop ***
+06-27-2024 00:41:48.610 | Finish item Realtek HD Universal Drivers.
+06-27-2024 00:41:48.610 | ===== Stop process : Realtek HD Universal Drivers =====
+06-27-2024 00:41:48.610 | 
+06-27-2024 00:41:48.610 | ===== Start process : Intel Serial IO Drivers =====
+06-27-2024 00:41:48.610 | *** Download function start ***
+06-27-2024 00:41:48.610 | Name : Intel Serial IO Drivers
+06-27-2024 00:41:48.610 | Version : 30.100.2221.20
+06-27-2024 00:41:48.610 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/MBID0002/Intel_Serial_IO_Drivers_30.100.2221.20.zip
+06-27-2024 00:41:48.610 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_Serial_IO_Drivers_30.100.2221.20.zip
+06-27-2024 00:41:48.610 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_Serial_IO_Drivers_30.100.2221.20\Intel Serial IO Drivers\SetupDrv64.exe
+06-27-2024 00:41:48.610 | Parm :  /a "{0:file_location}\RPL"
+06-27-2024 00:41:49.627 | File download finished! (Intel_Serial_IO_Drivers_30.100.2221.20.zip)
+06-27-2024 00:41:49.627 | Download status : SUCCESSFUL
+06-27-2024 00:41:49.627 | *** Download function Stop ***
+06-27-2024 00:41:49.627 | *** Uncompress function start ***
+06-27-2024 00:41:49.627 | Name : Intel Serial IO Drivers
+06-27-2024 00:41:49.627 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/MBID0002/Intel_Serial_IO_Drivers_30.100.2221.20.zip
+06-27-2024 00:41:49.642 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_Serial_IO_Drivers_30.100.2221.20.zip
+06-27-2024 00:41:49.642 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_Serial_IO_Drivers_30.100.2221.20\Intel Serial IO Drivers\SetupDrv64.exe
+06-27-2024 00:41:49.642 | Decompression source C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_Serial_IO_Drivers_30.100.2221.20.zip.
+06-27-2024 00:41:49.642 | Decompression destination C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_Serial_IO_Drivers_30.100.2221.20\Intel Serial IO Drivers\SetupDrv64.exe.
+06-27-2024 00:41:50.940 | Uncompress status : SUCCESSFUL
+06-27-2024 00:41:50.940 | *** Uncompress function Stop ***
+06-27-2024 00:41:50.940 | *** Install function start ***
+06-27-2024 00:41:50.940 | Name : Intel Serial IO Drivers
+06-27-2024 00:41:50.940 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/MBID0002/Intel_Serial_IO_Drivers_30.100.2221.20.zip
+06-27-2024 00:41:50.940 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_Serial_IO_Drivers_30.100.2221.20.zip
+06-27-2024 00:41:50.940 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_Serial_IO_Drivers_30.100.2221.20\Intel Serial IO Drivers\SetupDrv64.exe
+06-27-2024 00:41:50.940 | Execute C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_Serial_IO_Drivers_30.100.2221.20\Intel Serial IO Drivers\SetupDrv64.exe param  /a "C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_Serial_IO_Drivers_30.100.2221.20\Intel Serial IO Drivers\\RPL".
+06-27-2024 00:41:54.957 | Install status : SUCCESSFUL
+06-27-2024 00:41:54.957 | *** Install function Stop ***
+06-27-2024 00:41:54.957 | Finish item Intel Serial IO Drivers.
+06-27-2024 00:41:54.957 | ===== Stop process : Intel Serial IO Drivers =====
+06-27-2024 00:41:54.957 | 
+06-27-2024 00:41:54.957 | ===== Start process : Intel ME Drivers =====
+06-27-2024 00:41:54.957 | *** Download function start ***
+06-27-2024 00:41:54.957 | Name : Intel ME Drivers
+06-27-2024 00:41:54.957 | Version : 2230.3.19.0
+06-27-2024 00:41:54.957 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/MBID0002/Intel_ME_Drivers_16.1.25.1917.zip
+06-27-2024 00:41:54.957 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_ME_Drivers_16.1.25.1917.zip
+06-27-2024 00:41:54.957 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_ME_Drivers_16.1.25.1917\Intel ME Drivers\SetupME.exe
+06-27-2024 00:41:54.957 | Parm :  -s -nocall
+06-27-2024 00:44:25.295 | File download finished! (Intel_ME_Drivers_16.1.25.1917.zip)
+06-27-2024 00:44:25.295 | Download status : SUCCESSFUL
+06-27-2024 00:44:25.295 | *** Download function Stop ***
+06-27-2024 00:44:25.295 | *** Uncompress function start ***
+06-27-2024 00:44:25.295 | Name : Intel ME Drivers
+06-27-2024 00:44:25.295 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/MBID0002/Intel_ME_Drivers_16.1.25.1917.zip
+06-27-2024 00:44:25.295 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_ME_Drivers_16.1.25.1917.zip
+06-27-2024 00:44:25.295 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_ME_Drivers_16.1.25.1917\Intel ME Drivers\SetupME.exe
+06-27-2024 00:44:25.295 | Decompression source C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_ME_Drivers_16.1.25.1917.zip.
+06-27-2024 00:44:25.295 | Decompression destination C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_ME_Drivers_16.1.25.1917\Intel ME Drivers\SetupME.exe.
+06-27-2024 00:44:26.828 | Uncompress status : SUCCESSFUL
+06-27-2024 00:44:26.844 | *** Uncompress function Stop ***
+06-27-2024 00:44:26.844 | *** Install function start ***
+06-27-2024 00:44:26.844 | Name : Intel ME Drivers
+06-27-2024 00:44:26.844 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/MBID0002/Intel_ME_Drivers_16.1.25.1917.zip
+06-27-2024 00:44:26.844 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_ME_Drivers_16.1.25.1917.zip
+06-27-2024 00:44:26.844 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_ME_Drivers_16.1.25.1917\Intel ME Drivers\SetupME.exe
+06-27-2024 00:44:26.844 | Execute C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\Intel_ME_Drivers_16.1.25.1917\Intel ME Drivers\SetupME.exe param  -s -nocall.
+06-27-2024 00:44:39.900 | Install status : SUCCESSFUL
+06-27-2024 00:44:39.916 | *** Install function Stop ***
+06-27-2024 00:44:39.916 | Finish item Intel ME Drivers.
+06-27-2024 00:44:39.916 | ===== Stop process : Intel ME Drivers =====
+06-27-2024 00:44:39.916 | 
+06-27-2024 00:44:39.916 | ===== Start process : CPU-Z MSI GAMING =====
+06-27-2024 00:44:39.916 | *** Download function start ***
+06-27-2024 00:44:39.916 | Name : CPU-Z MSI GAMING
+06-27-2024 00:44:39.916 | Version : 2.08
+06-27-2024 00:44:39.916 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/Utility/CPU-Z_MSI_GAMING_2.08.zip
+06-27-2024 00:44:39.916 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\CPU-Z_MSI_GAMING_2.08.zip
+06-27-2024 00:44:39.916 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\CPU-Z_MSI_GAMING_2.08\CPU-Z MSI GAMING\cpu-z_2.08-msi-en.exe
+06-27-2024 00:44:39.916 | Parm :  /VERYSILENT /NORESTART
+06-27-2024 00:44:41.965 | File download finished! (CPU-Z_MSI_GAMING_2.08.zip)
+06-27-2024 00:44:41.980 | Download status : SUCCESSFUL
+06-27-2024 00:44:41.980 | *** Download function Stop ***
+06-27-2024 00:44:41.980 | *** Uncompress function start ***
+06-27-2024 00:44:41.980 | Name : CPU-Z MSI GAMING
+06-27-2024 00:44:41.980 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/Utility/CPU-Z_MSI_GAMING_2.08.zip
+06-27-2024 00:44:41.980 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\CPU-Z_MSI_GAMING_2.08.zip
+06-27-2024 00:44:41.980 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\CPU-Z_MSI_GAMING_2.08\CPU-Z MSI GAMING\cpu-z_2.08-msi-en.exe
+06-27-2024 00:44:41.980 | Decompression source C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\CPU-Z_MSI_GAMING_2.08.zip.
+06-27-2024 00:44:41.980 | Decompression destination C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\CPU-Z_MSI_GAMING_2.08\CPU-Z MSI GAMING\cpu-z_2.08-msi-en.exe.
+06-27-2024 00:44:43.232 | Uncompress status : SUCCESSFUL
+06-27-2024 00:44:43.232 | *** Uncompress function Stop ***
+06-27-2024 00:44:43.232 | *** Install function start ***
+06-27-2024 00:44:43.232 | Name : CPU-Z MSI GAMING
+06-27-2024 00:44:43.232 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/Utility/CPU-Z_MSI_GAMING_2.08.zip
+06-27-2024 00:44:43.232 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\CPU-Z_MSI_GAMING_2.08.zip
+06-27-2024 00:44:43.232 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\CPU-Z_MSI_GAMING_2.08\CPU-Z MSI GAMING\cpu-z_2.08-msi-en.exe
+06-27-2024 00:44:43.232 | Execute C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\CPU-Z_MSI_GAMING_2.08\CPU-Z MSI GAMING\cpu-z_2.08-msi-en.exe param  /VERYSILENT /NORESTART.
+06-27-2024 00:44:45.249 | Install status : SUCCESSFUL
+06-27-2024 00:44:45.249 | *** Install function Stop ***
+06-27-2024 00:44:45.249 | Finish item CPU-Z MSI GAMING.
+06-27-2024 00:44:45.249 | ===== Stop process : CPU-Z MSI GAMING =====
+06-27-2024 00:44:45.249 | 
+06-27-2024 00:44:45.249 | ===== Start process : AIDA64 Extreme - MSI Edition =====
+06-27-2024 00:44:45.249 | *** Download function start ***
+06-27-2024 00:44:45.249 | Name : AIDA64 Extreme - MSI Edition
+06-27-2024 00:44:45.249 | Version : 7.00
+06-27-2024 00:44:45.249 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/Utility/AIDA64_Extreme-MSI_Edition_7.00.zip
+06-27-2024 00:44:45.249 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\AIDA64_Extreme-MSI_Edition_7.00.zip
+06-27-2024 00:44:45.249 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\AIDA64_Extreme-MSI_Edition_7.00\AIDA64 Extreme - MSI Edition\aida64extreme700_msi_oem.exe
+06-27-2024 00:44:45.249 | Parm :  /silent /norestart
+06-27-2024 00:45:31.329 | File download finished! (AIDA64_Extreme-MSI_Edition_7.00.zip)
+06-27-2024 00:45:31.329 | Download status : SUCCESSFUL
+06-27-2024 00:45:31.329 | *** Download function Stop ***
+06-27-2024 00:45:31.329 | *** Uncompress function start ***
+06-27-2024 00:45:31.329 | Name : AIDA64 Extreme - MSI Edition
+06-27-2024 00:45:31.329 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/Utility/AIDA64_Extreme-MSI_Edition_7.00.zip
+06-27-2024 00:45:31.329 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\AIDA64_Extreme-MSI_Edition_7.00.zip
+06-27-2024 00:45:31.329 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\AIDA64_Extreme-MSI_Edition_7.00\AIDA64 Extreme - MSI Edition\aida64extreme700_msi_oem.exe
+06-27-2024 00:45:31.329 | Decompression source C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\AIDA64_Extreme-MSI_Edition_7.00.zip.
+06-27-2024 00:45:31.344 | Decompression destination C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\AIDA64_Extreme-MSI_Edition_7.00\AIDA64 Extreme - MSI Edition\aida64extreme700_msi_oem.exe.
+06-27-2024 00:45:32.517 | Uncompress status : SUCCESSFUL
+06-27-2024 00:45:32.533 | *** Uncompress function Stop ***
+06-27-2024 00:45:32.533 | *** Install function start ***
+06-27-2024 00:45:32.533 | Name : AIDA64 Extreme - MSI Edition
+06-27-2024 00:45:32.533 | WebPath : https://liveupdate.msi.com/cd/MSI_WU_DRIVER/MB/Release/Utility/AIDA64_Extreme-MSI_Edition_7.00.zip
+06-27-2024 00:45:32.533 | TempFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\AIDA64_Extreme-MSI_Edition_7.00.zip
+06-27-2024 00:45:32.533 | ExeSetupFilePath : C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\AIDA64_Extreme-MSI_Edition_7.00\AIDA64 Extreme - MSI Edition\aida64extreme700_msi_oem.exe
+06-27-2024 00:45:32.533 | Execute C:\Users\Пользователь\AppData\Local\Temp\MSI_Driver_Utility_Installer\File\AIDA64_Extreme-MSI_Edition_7.00\AIDA64 Extreme - MSI Edition\aida64extreme700_msi_oem.exe param  /silent /norestart.
+06-27-2024 00:45:42.603 | Install status : SUCCESSFUL
+06-27-2024 00:45:42.603 | *** Install function Stop ***
+06-27-2024 00:45:42.604 | Finish item AIDA64 Extreme - MSI Edition.
+06-27-2024 00:45:42.604 | ===== Stop process : AIDA64 Extreme - MSI Edition =====
+06-27-2024 00:45:42.604 | All items finished.
+06-27-2024 00:45:51.015 | ****** Module Stop ******
